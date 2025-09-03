@@ -2,8 +2,6 @@
 
 This GitHub looks _empty_?
 
----
-
 Most of my projects are private because they’re **_closed-source_**. That includes startup code, tools I built for myself, and experiments I’m not ready to share yet. Some of them handle sensitive data, and some are part of bigger products I’m still working on.
 
 If you’re _curious_ about what I’ve built, or wanna collaborate, just <a target="_blank" href="mailto:sharqawycs@gmail.com">DM me.</a> I’ve got demos, writeups, and code I can share privately.
@@ -21,3 +19,7 @@ I’m also into cognitive science, neuroscience, and how tech can be used to bui
   <a target="_blank" href="mailto:sharqawycs@gmail.com">Email</a> -
   <a target="_blank" href="https://leetcode.com/u/sharqawycs/">LC</a> 
 </p>
+
+---
+
+![GitHub Stats](https://gh-stats-beta-sepia.vercel.app/api?username=sharqawycs&show_icons=true&hide_border=true&hide_title=true&theme=transparent)
